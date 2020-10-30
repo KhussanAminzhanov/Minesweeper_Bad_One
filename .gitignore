@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Minesweeper/task/build/
+/Minesweeper/task/out/
+/Minesweeper/task/out/production/classes/
+/Problems/Find the first occurrence of the word  the/out/
+/Problems/Find the first occurrence of the word  the/out/production/classes/
+/Problems/Find the nearest number/out/
+/Problems/Find the nearest number/out/production/classes/
+/Problems/Getting the max element of a stack/out/
+/Problems/Getting the max element of a stack/out/production/classes/
+/Problems/Greedy load balance/out/
+/Problems/Greedy load balance/out/production/classes/
+/Problems/Html Parser/out/
+/Problems/Html Parser/out/production/classes/
